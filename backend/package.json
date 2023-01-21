@@ -1,0 +1,59 @@
+{
+  "name": "indica-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "local": "npm install && pm2 startOrReload ecosystem.config.js --env local --update-env --watch 0",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jhonatanbotelho@bitbucket.org/jhonatanbotelho/indica-api.git"
+  },
+  "_moduleAliases": {
+    "@controllers": "controllers",
+    "@models": "models",
+    "@routes": "routes",
+    "@services": "services",
+    "@utils": "utils"
+  },
+  "keywords": [],
+  "author": "Jhonatan Botelho",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/jhonatanbotelho/indica-api#readme",
+  "dependencies": {
+    "aws-sdk": "^2.655.0",
+    "axios": "^0.21.0",
+    "bluebird": "^3.7.2",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "helmet": "^3.22.0",
+    "http": "0.0.1-security",
+    "http-status-codes": "^1.4.0",
+    "ip": "^1.1.5",
+    "js-base64": "^2.5.2",
+    "jshashes": "^1.0.8",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.15",
+    "module-alias": "^2.2.2",
+    "moment-timezone": "^0.5.28",
+    "multer": "^1.4.2",
+    "multer-s3": "^2.9.0",
+    "mysql2": "^2.1.0",
+    "node-uuid": "^1.4.8",
+    "nodemailer": "^6.4.6",
+    "path": "^0.12.7",
+    "piii": "^4.0.2",
+    "piii-filters": "^1.0.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "sequelize": "^5.21.6",
+    "util": "^0.12.2"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^5.5.1"
+  }
+}

@@ -1,0 +1,155 @@
+Banner: {
+    Model: OK,
+    Controller: OK,
+    Service: OK
+}
+
+Curtida: {
+    Model: OK,
+    Controller: OK,
+    Service: OK
+}
+
+StatusPedido: {
+    Model: OK,
+    Controller: OK,
+    Service: OK
+}
+
+Localidade: {
+    Model: OK,
+    Controller: OK,
+    Service: OK
+}
+
+Notificacao: {
+    Model: OK,
+    Controller: OK,
+    Service: OK
+}
+
+MetodoPagamento: {
+    Model: OK,
+    Controller: OK,
+    Service: OK
+}
+
+Favorito: {
+    Model: OK,
+    Controller: OK,
+    Service: OK
+}
+
+Cidade: {
+    Model: OK,
+    Controller: OK,
+    Service: OK
+}
+
+Estado: {
+    Model: OK,
+    Controller: OK,
+    Service: OK
+}
+
+CupomDesconto: {
+    Model: OK,
+    Controller: OK,
+    Service: OK
+}
+
+Loja: {
+    Model: OK,
+    Controller: OK,
+    Service: OK
+}
+
+Pedido: {
+    Model: OK,
+    Controller: OK,
+    Service: OK
+}
+
+Admin: {
+    Model: OK,
+    Controller: OK,
+    Service: OK
+}
+
+Usuario: {
+    Model: OK,
+    Controller: OK,
+    Service: OK
+}
+
+AdminLoja: {
+    Model: OK,
+    Controller: OK,
+    Service: OK
+}
+
+Produto: {
+    Model: OK,
+    Controller: OK,
+    Service: OK
+}
+
+Categoria: {
+    Model: OK,
+    Controller: OK,
+    Service: OK
+}
+
+CategoriaProduto: {
+    Model: OK,
+    Controller: OK,
+    Service: OK
+}
+
+Marca: {
+    Model: OK,
+    Controller: OK,
+    Service: OK
+}
+
+MarcaProduto: {
+    Model: OK,
+    Controller: OK,
+    Service: OK
+}
+
+Tamanho: {
+    Model: OK,
+    Controller: OK,
+    Service: OK
+}
+
+TamanhoProduto: {
+    Model: OK,
+    Controller: OK,
+    Service: OK
+}
+
+ImagemProduto: {
+    Model: OK,
+    Controller: OK,
+    Service: OK
+}
+
+ItemPedido: {
+    Model: OK,
+    Controller: OK,
+    Service: OK
+}
+
+EnderecoLoja: {
+    Model: OK,
+    Controller: OK,
+    Service: OK
+}
+
+EnderecoUsuario: {
+    Model: OK,
+    Controller: OK,
+    Service: OK
+}
